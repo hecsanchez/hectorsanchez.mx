@@ -1,56 +1,64 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-06451cdc24ccd801b3e9.js",
-      "component---src-pages-index-js-06451cdc24ccd801b3e9.js.map"
+      "component---src-pages-index-js-8b5da81e9b757bcdb2d9.js",
+      "component---src-pages-index-js-8b5da81e9b757bcdb2d9.js.map"
     ],
     "path---blog": [
-      "path---blog-9430de44a4f6dcac5b9d.js",
-      "path---blog-9430de44a4f6dcac5b9d.js.map"
+      "path---blog-52820a32140fa06fab7d.js",
+      "path---blog-52820a32140fa06fab7d.js.map"
     ],
     "path---": [
       "path----a781ab87f3071b5d7ad9.js",
       "path----a781ab87f3071b5d7ad9.js.map"
     ],
     "path---blog-automate-with-webhooks": [
-      "path---blog-automate-with-webhooks-e579a3247ad64b66f11d.js",
-      "path---blog-automate-with-webhooks-e579a3247ad64b66f11d.js.map"
+      "path---blog-automate-with-webhooks-6d04096a501eda8e943b.js",
+      "path---blog-automate-with-webhooks-6d04096a501eda8e943b.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-54f0fb98de14e42c3f09.js",
-      "component---src-templates-blog-post-js-54f0fb98de14e42c3f09.js.map"
+      "component---src-templates-blog-post-js-98c88e4162e0f3dd6890.js",
+      "component---src-templates-blog-post-js-98c88e4162e0f3dd6890.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-177d091d230e5a2ab3b7.js",
-      "component---src-layouts-index-js-177d091d230e5a2ab3b7.js.map"
+      "component---src-layouts-index-js-665a396c542c1a48b205.js",
+      "component---src-layouts-index-js-665a396c542c1a48b205.js.map"
     ],
     "path---blog-hello-world": [
-      "path---blog-hello-world-ebe86c9a8a7cee59a428.js",
-      "path---blog-hello-world-ebe86c9a8a7cee59a428.js.map"
+      "path---blog-hello-world-e693774af7b363965c9c.js",
+      "path---blog-hello-world-e693774af7b363965c9c.js.map"
     ],
     "path---index": [
-      "path---index-2f3c94fb1bb3374076de.js",
-      "path---index-2f3c94fb1bb3374076de.js.map"
+      "path---index-8f3bd8e4cf62ffc5a6a0.js",
+      "path---index-8f3bd8e4cf62ffc5a6a0.js.map"
     ],
     "commons": [
-      "commons-5c476813e808bbf6261b.js",
+      "commons-d73f124816e4fc367072.js",
       "build-js-styles.css",
-      "commons-5c476813e808bbf6261b.js.map",
+      "commons-d73f124816e4fc367072.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-static-sites-are-great": [
-      "path---blog-static-sites-are-great-c8968e8607770a331f97.js",
-      "path---blog-static-sites-are-great-c8968e8607770a331f97.js.map"
+      "path---blog-static-sites-are-great-b633350e60d45512fdc7.js",
+      "path---blog-static-sites-are-great-b633350e60d45512fdc7.js.map"
     ],
     "component---src-pages-blog-js": [
-      "component---src-pages-blog-js-984a6b083e4296c64a7a.js",
-      "component---src-pages-blog-js-984a6b083e4296c64a7a.js.map"
+      "component---src-pages-blog-js-ff294478af6cc1053808.js",
+      "component---src-pages-blog-js-ff294478af6cc1053808.js.map"
     ],
     "app": [
-      "app-65d7087dae9544fddd50.js",
+      "app-fa7eb2025bd58676141d.js",
       "build-js-styles.css",
-      "app-65d7087dae9544fddd50.js.map",
+      "app-fa7eb2025bd58676141d.js.map",
       "build-js-styles.css.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-0f240fabaf0857e45075.js",
+      "component---src-pages-about-js-0f240fabaf0857e45075.js.map"
+    ],
+    "path---about": [
+      "path---about-aea944d877e67f56eb70.js",
+      "path---about-aea944d877e67f56eb70.js.map"
     ]
   }
 }
